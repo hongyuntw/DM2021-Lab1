@@ -4,3 +4,4 @@
 * please run to see the figure
 ## DM2021-Lab1-Homework
 * Do homework on new dataset
+* please run to see the figure
